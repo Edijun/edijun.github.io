@@ -3,8 +3,6 @@ layout: default
 title: "edijun.id"
 ---
 
-# Edi Djunaidi
-
 **Backend Engineer**  
 Java · Spring Boot · Golang · Microservices · Keycloak · MongoDB · PostgreSQL · Kafka · Redis  
 [LinkedIn](https://www.linkedin.com/in/edijun) · [GitHub](https://github.com/edijun) · Jakarta, Indonesia
