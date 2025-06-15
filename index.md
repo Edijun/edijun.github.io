@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Edi Junaedi"
+title: "edijun.id"
 ---
 
-# Edi Junaedi
+# Edi Djunaidi
 
 **Backend Engineer**  
 Java · Spring Boot · Golang · Microservices · Keycloak · MongoDB · PostgreSQL · Kafka · Redis  
